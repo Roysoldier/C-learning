@@ -52,5 +52,9 @@
         "iomanip": "cpp",
         "sstream": "cpp",
         "map": "cpp"
-    }
+    },
+    "C_Cpp.default.includePath": [
+        "D:/Noan Programmation/learn/C++/lib/boost_1_66_0",
+    ],
+
 }

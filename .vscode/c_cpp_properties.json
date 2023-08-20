@@ -3,15 +3,16 @@
         {
             "name": "Win32",
             "includePath": [
-                "${workspaceFolder}/**"
+                "${workspaceFolder}/**",
+                "D:/Noan Programmation/learn/C++/lib/boost_1_68_0",
+                "D:/Noan Programmation/learn/C++/lib/SFML-2.6.0-windows-gcc-13.1.0-mingw-64-bit/SFML-2.6.0/include" 
             ],
             "defines": [
                 "_DEBUG",
                 "UNICODE",
                 "_UNICODE"
             ],
-            "compilerPath": "C:\\msys64\\mingw64\\bin\\gcc.exe",
-
+            "compilerPath": "C:\\msys64\\mingw64\\bin\\g++.exe",
             "cStandard": "c17",
             "cppStandard": "gnu++17",
             "intelliSenseMode": "windows-gcc-x64"
